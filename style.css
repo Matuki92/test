@@ -1,0 +1,33 @@
+.main {
+  border: 1px solid black;
+  width: 250px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 15px;
+}
+
+.radius {
+  margin-top: 15px;
+  border-radius: 20px;
+}
+
+#btn:hover {
+  color: red;
+  cursor: pointer;
+  border: 1px solid black;
+}
+
+#btn:focus {
+  outline: none;
+}
+
+#btn {
+  padding: 20px;
+  font-size: 20px;
+  background-color: transparent;
+  border: 1px solid transparent;
+}
+
+.finish {
+  background-color: red;
+}
